@@ -5,6 +5,7 @@ Ping
 Orange
 Red
 Green
+Indigo
 Unicorn
 Yellow
 Blue
